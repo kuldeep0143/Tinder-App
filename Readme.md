@@ -1,3 +1,3 @@
 # DevTinder 
 
-## Create a Serve with Express
+## Create a Server with Express
