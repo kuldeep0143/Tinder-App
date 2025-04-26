@@ -10,6 +10,9 @@ app.use("/hello", (req, res) => {
 app.use("/", (req, res) => {
   res.send("Hello from Home Page");
 });
+app.use("/game", (req, res) => {
+  res.send("Hello from Game Page");
+});
 
 
 app.listen(3000, () => {
